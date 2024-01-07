@@ -25,10 +25,17 @@
 }
 
 .logo img {
-    height: 100px;
+    height: 75px;
     margin-top: 15px;
-    margin-left: 5px;
 }
+
+.icon h2 {
+    font-size: 17px;
+    color: #18c026;
+    display: flex;
+    align-items: center;
+}
+
 .menu{
     width: 400px;
     float: left;
